@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#btn-p:hover{
+    background-color: skyblue;
+    color: black;
+}

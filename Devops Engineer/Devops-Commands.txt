@@ -1,0 +1,5 @@
+*AWK- inbuild programming so we do not write shell scripting awk '' app.log
+
+*SED(stream editor)- sec -n '' app.log
+
+*grap

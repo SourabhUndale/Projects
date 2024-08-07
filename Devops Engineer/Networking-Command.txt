@@ -1,0 +1,30 @@
+
+Regular Imp cmd
+1.route-
+2.nmap- network map (nmap -v(verbous) --name--)
+3.wget-
+4.watch- show per 2 sec output
+5.iptables- show all tables
+6.Traceroute- indetails show the 
+7. curl-: calling api end points (curl -X GET) (jq) vs wget
+
+
+1.Ping- show the connecting to web the web site
+2.net-tools: user this this cmd
+	Netstate- Active internet connection Show
+3.ifconfig- show network connected 
+4.Network Interface Card(NIC)
+5.Traceroute- tracing the ip and tracepath-: show the path
+6. mtr(my trace route)- combination of ping or Tracepath 
+7.nslookup- show detials 
+8.Talnet- its same as nslookup but add aslo port number
+9.Hostname- save number for host
+8.ip- show ip address
+9.iwconfig(IW-Internet wireless network)
+10.ss- same as NetStat 
+11.Dig- Introduction and details of app webite
+12.whois- all info about website
+13.nc-: (NetCat)
+14.ARP-: Address Resolutin Protocol
+ifplugstatus-interface show 
+
